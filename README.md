@@ -1,4 +1,4 @@
 # AluraMidi
-Bateria midi feita com HTML, CSS e JavaScript.
+Midi drums developed in HTML, CSS and JavaScript
 
-Projeto feito para o curso "JavaScript para Web: Crie páginas dinâmicas" da Alura.
+Project made for the course "JavaScript para Web: Crie páginas dinâmicas" by Alura.
